@@ -11,6 +11,13 @@ This project was built for Microsoft Engage'22 Program in which we have to Demon
 - Checking similarity based on overview, cast, crew, keywords and genre
 - Fetching poster from TMDB API
 
+# Tech Stack Used
+- Jupyter Notebook
+- Python
+- TMDB API
+- Streamlit
+- Pandas
+
 # Dataset Sources
 
 [The Movie Dataset from kaggle](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
